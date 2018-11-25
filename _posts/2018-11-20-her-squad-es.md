@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Her Squad
-description: Meet the ladies
+title: Ellas
+ref: ladies
+lang: es
+description: Conózcalas
 image: assets/images/pic02.jpg
 ---
 

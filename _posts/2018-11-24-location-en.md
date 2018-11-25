@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Location
+ref: location
+lang: en
 description: About the location
 image: assets/images/pic06.jpg
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pictures
+lang: en
+ref: Pictures
 description: Share your pictures with us
 image: assets/images/pic01.jpg
 ---

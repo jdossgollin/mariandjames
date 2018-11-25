@@ -2,8 +2,8 @@
 layout: home
 title: Home
 ref: Home
-lang: en
-landing-title: "Mari and James"
+lang: es
+landing-title: "Mari y James"
 description: null
 image: null
 author: null

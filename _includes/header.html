@@ -3,5 +3,17 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<div>
+		<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	</div>
+	<nav>
+		{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+		{% for post in posts %}
+			<a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> 
+		{% endfor %}
+		{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+		{% for page in pages %}
+			<a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
+		{% endfor %}
+	</nav>
 </header>
