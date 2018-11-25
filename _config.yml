@@ -1,13 +1,13 @@
 # Multi-Language settings
 t:
   en:
-    title: Mari and James
-    subtitle: no details yet!
+    title: "Mari and James"
+    subtitle: "no details yet!"
     description: "This is just a demo site! We'll add more content eventually, but we have a lot to think about first!"
     getstarted: "Get started"
   es:
-    title: Mari y James
-    subtitle: aún sin detalles!
+    title: "Mari y James"
+    subtitle: "aún sin detalles!"
     description: "Esta página aún no tiene detalles. Vuelva pronto!"
     getstarted: "Listo!"
 
