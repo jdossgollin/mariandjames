@@ -1,0 +1,2 @@
+Since this is a very specialized event page, contributions probably don't make sense.
+Instead, I would refer you to the GitHub page of the underlying [Jekyll theme](https://github.com/andrewbanchich/forty-jekyll-theme){:target="_blank"} for any feature requests.

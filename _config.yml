@@ -1,0 +1,29 @@
+# site settings
+title: Mari and James
+subtitle: no details yet!
+email: james.dossgollin@gmail.com
+description: "This is just a demo site! We'll add more content eventually, but we have a lot to think about first!"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mariandjames.us" # the base hostname & protocol for your site
+author: James Doss-Gollin
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 100 # this could potentially limit the number of posts
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/jdossgollin
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
