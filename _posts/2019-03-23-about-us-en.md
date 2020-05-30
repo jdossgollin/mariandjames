@@ -2,9 +2,10 @@
 layout: post
 title: About Us
 ref: about
-lang: en
+lang: english
 description: About Mari and James
-image: assets/images/engagement01.jpg
+image: assets/images/engagement-gaze.jpg
 ---
 
-You probably know us already, but if not you'll have to wait a bit longer to meet us!
+I bet you know us already!
+More to follow.

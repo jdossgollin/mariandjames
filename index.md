@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ref: Home
-lang: en
+lang: english
 landing-title: "Mari and James"
 description: null
 image: null

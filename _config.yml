@@ -1,21 +1,24 @@
 # Multi-Language settings
 t:
-  en:
-    title: "Mari and James"
-    subtitle: "Wedding 2021"
-    description: "This is just a demo site! We'll add more content eventually, but we have a lot to think about first!"
-    getstarted: "Get started"
-  es:
-    title: "Mari y James"
-    subtitle: "Boda 2021"
-    description: "Esta página aún no tiene detalles. Vuelva pronto!"
-    getstarted: "Listo!"
+  english:
+    title: "Mariangel and James"
+    subtitle: "July 24, 2021"
+    description: "Save the date: July 24, 2021 | New Haven, CT"
+    getstarted: ""
+  español:
+    title: "Mariangel y James"
+    subtitle: "24 de Julio de 2021"
+    description: "Guarda la fecha: 24 de Julio de 2021 | New Haven, CT"
+    getstarted: "!"
 
 # site settings
 email: james.dossgollin@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mariandjames.us" # the base hostname & protocol for your site
 author: James Doss-Gollin
+
+# icon
+logo_icon: /assets/images/logos/logo.ico
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

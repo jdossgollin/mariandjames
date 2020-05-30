@@ -2,9 +2,10 @@
 layout: post
 title: El Local
 ref: location
-lang: es
+lang: español
 description: Sobre el local
-image: assets/images/pic06.jpg
+image: assets/images/on-the-river.jpeg
 ---
 
-Ya pondremos informaciones..
+Estaremos en New Haven, CT, donde los dos crecimos.
+Seguiremos con mas información pronto!

@@ -2,10 +2,10 @@
 layout: post
 title: Location
 ref: location
-lang: en
+lang: english
 description: About the location
-image: assets/images/pic06.jpg
+image: assets/images/on-the-river.jpeg
 ---
 
-Of course we have no idea yet!
-Yes we're still using stock photos!
+We'll be in New Haven, CT, where we both grew up.
+More information to follow!

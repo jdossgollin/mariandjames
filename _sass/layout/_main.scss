@@ -8,6 +8,9 @@
 
 	#main {
 		background-color: _palette(bg-alt);
+		max-width: 800px;
+		margin: 0 auto;
+
 
 		> * {
 			border-top: solid 1px _palette(border);
