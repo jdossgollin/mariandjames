@@ -3,8 +3,8 @@ layout: post
 title: El Local
 ref: location
 lang: español
-description: Sobre el local
-image: assets/images/on-the-river.jpeg
+image: assets/images/engagement-smile.jpeg
+permalink: el-local
 ---
 
 Celebraremos con ceremonia y recepción en New Haven, CT, donde ambos crecimos.
