@@ -34,11 +34,13 @@
 <ul class="image-gallery">
     {% assign images = site.data.gallery | sort: "year" %}
     {% for image in images %}
-    {% assign filename = image.filename | prepend: "/assets/images/" %}
-    <li><a href="{{ filename | relative_url }}" title="{{ image.caption }}"><img
-                src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ filename | relative_url }}&w=300&h=300&output=jpg&q=50&t=square"
-                alt="{{ image.location }}, {{ image.year }}"
-                title="{{ image.caption }}" /><span>{{ image.caption }}</span></a>
+    {% assign filename = image.filename | prepend: "/assets/images/" | relative_url %}
+    {% assign caption = image.caption[page.lang] %}
+    <li><a href="{{ filename }}" title="{{ caption }}">
+            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ filename }}&w=400&h=400&output=jpg&q=100&t=square"
+                alt="{{ image.location }}, {{ image.year }}" title="{{ caption }}" />
+            <span>{{ caption }}</span>
+        </a>
     </li>
     {% endfor %}
 </ul>
