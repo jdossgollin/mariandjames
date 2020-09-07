@@ -7,5 +7,4 @@ description: Sobre Mari y James
 image: assets/images/engagement-gaze.jpg
 ---
 
-Ya nos conoce!
-Seguiremos pronto con más.
+

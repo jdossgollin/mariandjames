@@ -1,11 +1,12 @@
 ---
 layout: post
-title: About Us
+title: Our story
 ref: about
 lang: english
 description: About Mari and James
 image: assets/images/engagement-gaze.jpg
 ---
 
-I bet you know us already!
-More to follow.
+<!--{% include gallery.html %}-->
+
+{% include image-gallery.html folder="/assets/images/timeline" %}
