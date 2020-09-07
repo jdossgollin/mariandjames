@@ -1,12 +1,36 @@
-- filename: /assets/images/engagement-gaze.jpg
+- filename: engagement-gaze.jpg
   year: 2018
   location: Newport, RI
-- filename: /assets/images/engagement-gaze.jpg
+  caption: A picture from our engagement
+- filename: choppcheese.jpeg
+  year: 2018
+  location: Harlem, NY
+  caption: Chop Cheese
+- filename: dissertation.jpeg
+  year: 2020
+  location: New Haven, CT
+  caption: Before James's Ph.D. Defense
+- filename: easter.jpeg
+  year: 2014
+  location: New Haven, CT
+  caption: Easter 2014
+- filename: engagement-gaze.jpg
   year: 2018
   location: Newport, RI
-- filename: /assets/images/engagement-gaze.jpg
+  caption: She said yes!
+- filename: fortaleza.jpeg
+  year: 2014
+  location: Fortaleza, Brazil
+  caption: Watching the World Cup
+- filename: graduation.jpeg
+  year: 2015
+  location: Yale University
+  caption: James's college graduation
+- filename: laughing.jpeg
   year: 2018
-  location: Newport, RI
-- filename: /assets/images/engagement-gaze.jpg
-  year: 2018
-  location: Newport, RI
+  location: West Haven, CT
+  caption: Enjoying a cookout
+- filename: maine.jpeg
+  year: 2019
+  location: Portland, ME
+  caption: Fish and chips
