@@ -8,7 +8,7 @@
         float: left;
         display: block;
         margin: 0 0 1% 1%;
-        width: 19%;
+        width: 32%;
     }
 
     .image-gallery li a {
@@ -37,9 +37,9 @@
     {% assign filename = image.filename | prepend: "/assets/images/" | relative_url %}
     {% assign caption = image.caption[page.lang] %}
     <li><a href="{{ filename }}" title="{{ caption }}">
-            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ filename }}&w=400&h=400&output=jpg&q=100&t=square"
-                alt="{{ image.location }}, {{ image.year }}" title="{{ caption }}" />
-            <span>{{ caption }}</span>
+            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ filename }}&w=750&h=750&output=jpg&q=80&t=square"
+                alt="{{ caption }}" title="{{ caption }}" />
+            <span>({{ image.year }}): {{ caption }}</span>
         </a>
     </li>
     {% endfor %}
