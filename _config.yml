@@ -24,6 +24,9 @@ logo_icon: /assets/images/logos/logo.ico
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 100 # this could potentially limit the number of posts
 
+image_sliders:
+  - example_slider
+
 # social settings
 500px_url:
 facebook_url:
