@@ -1,7 +1,7 @@
 <div class="gg-container">
     <div class="gg-box" id="gallery">
         {% for image in site.data.gallery %}
-        {% assign filename = image.filename | prepend: "/assets/images/" | relative_url %}
+        {% assign filename = image.filename | prepend: "/assets/images/gallery/" | relative_url %}
         <img src="{{ filename }}">
         {% endfor %}
     </div>
