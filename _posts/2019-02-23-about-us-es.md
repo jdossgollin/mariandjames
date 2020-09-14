@@ -9,5 +9,5 @@ image_sliders:
     - example_slider
 ---
 
-<!-- LightWidget WIDGET -->
-<iframe src="//lightwidget.com/widgets/85c7ec2a1d0551dba5e62ad40298c222.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<!-- SnapWidget WIDGET -->
+<iframe src="https://snapwidget.com/embed/870901" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
