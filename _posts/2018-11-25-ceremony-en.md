@@ -7,7 +7,7 @@ image: assets/images/engagement-smile.jpeg
 permalink: ceremony-en
 ---
 
-Our wedding will be held at 3:30PM on Sunday, July 25th at St Rose Church in Meriden, CT.
+Our wedding ceremony will be held at 3:30PM on Sunday, July 25th at St Rose Church in Meriden, CT.
 We ask that all guests wear a face covering.
 To ensure the health of our friends, family, and community, attendance will be limited; we are working to find a way for friends and family who cannot safely join us to stream the ceremony from their homes.
 
