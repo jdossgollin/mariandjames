@@ -6,13 +6,13 @@ t:
   english:
     title: "Mariangel and James"
     subtitle: "July 25, 2021"
-    description: "Save the date: July 25, 2021 | New Haven, CT"
+    description: ""
     getstarted: ""
   español:
     title: "Mariangel y James"
     subtitle: "25 de Julio de 2021"
-    description: "Guarda la fecha: 25 de Julio de 2021 | New Haven, CT"
-    getstarted: "!"
+    description: ""
+    getstarted: ""
 
 # site settings
 email: james.dossgollin@gmail.com
